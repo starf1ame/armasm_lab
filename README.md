@@ -1,5 +1,7 @@
 ## Matrix Multiplication: Lab to Learn Armasm
 
+It's a simple lab to learn to write Armasm. It's designed for an undergraduate course when I was a teaching assistant.
+
 ### Task of Lab
 
 Given `main.c`, implement `matrix_mul` function in `matrix.s` in ARM assembler (armasm), which has different syntax from GNU assembler (GAS).
@@ -51,6 +53,6 @@ However, when I try to build environment on Linux, I found the `armclang` of Kei
 
 ### Reference
 
-* [ARMonQEMUforDebianUbuntu](https://gist.github.com/luk6xff/9f8d2520530a823944355e59343eadc1)
+* [ARM on QEMU for Debian Ubuntu](https://gist.github.com/luk6xff/9f8d2520530a823944355e59343eadc1)
 * [arm2gas](https://github.com/yxnan/arm2gas)
 * [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)
